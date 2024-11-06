@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: <your-github-username>/<your-repo-name>
+  repo: Papaya-Voldemort/Wiki # Make sure this matches your GitHub repo
   branch: main
 
 media_folder: "public/images" # Folder for uploaded images
